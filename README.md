@@ -8,7 +8,7 @@
 
 - 👯 I’m looking for a Entry Level Position in field of Data Analytics.
 
-- 👨‍💻 All of my projects are available at https://www.novypro.com/profile_about/seetha-rama-rajunadipena](https://www.novypro.com/profile_about/seetha-rama-rajunadipena
+- 👨‍💻 All of my projects are available at https://www.novypro.com/profile_about/seetha-rama-rajunadipena]
 
 - 💬 Ask me about **Passionate about the transformative potential of data analytics, I am Seetharamaraju Nadipena, a seasoned data analyst with a track record of leveraging advanced statistical techniques, predictive modeling, and data visualization tools to unlock actionable insights that drive strategic decision-making and operational excellence. With a career spanning diverse industries, I excel in navigating complex datasets, conducting rigorous analyses, and developing sophisticated models to fuel organizational growth and innovation. Proficient in programming languages such as Python , I thrive on the challenge of translating technical findings into compelling narratives that resonate with stakeholders at all levels. Beyond my technical expertise, I bring to the table a blend of analytical rigor, creative problem-solving, and a genuine enthusiasm for making a meaningful impact through data-driven approaches. Let's connect and collaborate on unleashing the full potential of your organization's data.**
 
