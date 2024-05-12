@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Seetharamaraju Nadipena</h1>
 <h3 align="center">Data Enthusiast Seeking Entry into the World of Data Analysis</h3>
 
-- 🔭 I’m currently working on Ai Variant Company [Data Analyst-Intern](https://www.novypro.com/project/hr-attrition-report-5)
+- 🔭 I’m recently completed my internship in Ai Variant Company-Data Analyst(Intern)
 
 - 🌱 I’m currently learning **Python,sql,Power Bi,Tableau,Excel...**
 
-- 👯 I’m looking to collaborate on [Crowd Funding](https://www.novypro.com/project/crowd-funding-1)
+- 👯 I’m looking for a Entry Level Position in field of Data Analytics.
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_about/seetha-rama-rajunadipena](https://www.novypro.com/profile_about/seetha-rama-rajunadipena)
 
