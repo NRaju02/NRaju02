@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Seetharamaraju Nadipena</h1>
 <h3 align="center">Data Enthusiast Seeking Entry into the World of Data Analysis</h3>
 
-- 🔭 I’m currently working on Ai Variant Company [Hr Analytics](https://www.novypro.com/project/hr-attrition-report-5)
+- 🔭 I’m currently working on Ai Variant Company [Data Analyst-Intern](https://www.novypro.com/project/hr-attrition-report-5)
 
 - 🌱 I’m currently learning **Python,sql,Power Bi,Tableau,Excel...**
 
